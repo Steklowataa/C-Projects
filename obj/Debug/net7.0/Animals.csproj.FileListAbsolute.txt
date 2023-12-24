@@ -1,0 +1,14 @@
+/Users/aleksandra/Animals/bin/Debug/net7.0/Animals
+/Users/aleksandra/Animals/bin/Debug/net7.0/Animals.deps.json
+/Users/aleksandra/Animals/bin/Debug/net7.0/Animals.runtimeconfig.json
+/Users/aleksandra/Animals/bin/Debug/net7.0/Animals.dll
+/Users/aleksandra/Animals/bin/Debug/net7.0/Animals.pdb
+/Users/aleksandra/Animals/obj/Debug/net7.0/Animals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandra/Animals/obj/Debug/net7.0/Animals.AssemblyInfoInputs.cache
+/Users/aleksandra/Animals/obj/Debug/net7.0/Animals.AssemblyInfo.cs
+/Users/aleksandra/Animals/obj/Debug/net7.0/Animals.csproj.CoreCompileInputs.cache
+/Users/aleksandra/Animals/obj/Debug/net7.0/Animals.dll
+/Users/aleksandra/Animals/obj/Debug/net7.0/refint/Animals.dll
+/Users/aleksandra/Animals/obj/Debug/net7.0/Animals.pdb
+/Users/aleksandra/Animals/obj/Debug/net7.0/Animals.genruntimeconfig.cache
+/Users/aleksandra/Animals/obj/Debug/net7.0/ref/Animals.dll
